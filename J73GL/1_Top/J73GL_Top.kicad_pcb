@@ -104,7 +104,7 @@
   )
 
   (module kbd:SW_Hole_1.75 (layer F.Cu) (tedit 5FB4AB18) (tstamp 60A296AC)
-    (at 288.13125 85.725)
+    (at 269.08125 85.725)
     (path /5C3DCEFA)
     (fp_text reference SW8 (at 7 8.1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -650,7 +650,7 @@
   )
 
   (module kbd:SW_Hole (layer F.Cu) (tedit 5CB3579A) (tstamp 60A296B7)
-    (at 261.9375 85.725)
+    (at 295.275 85.725)
     (path /5C3DCEFA)
     (fp_text reference SW8 (at 7 8.1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1840,7 +1840,7 @@
     (arrow2b (pts (xy 2.775458 66.656703) (xy 3.362446 67.782911)))
   )
   (dimension 4.5 (width 0.15) (layer Dwgs.User) (tstamp 60AE05A6)
-    (gr_text "4.500 mm" (at 5.849861 19.3 270) (layer Dwgs.User) (tstamp 60AE05A7)
+    (gr_text "4.500 mm" (at 5.849861 19.3 270) (layer Dwgs.User) (tstamp 60AE05A6)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (feature1 (pts (xy 16.1 21.55) (xy 6.56344 21.55)))
