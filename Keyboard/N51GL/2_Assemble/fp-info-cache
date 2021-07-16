@@ -1,4 +1,4 @@
-61647104864175
+64901133249175
 kbd_Parts
 Battery_AAA
 1xAAA Battery Holder, Keystone, Plastic Case, http://www.keyelco.com/product-pdf.cfm?p=1031
@@ -21,14 +21,14 @@ Battery_BMP_2pin
 2
 2
 kbd_Parts
-Battery_XH2.5_GL
+Battery_XH2.5_GL_Connector
 
 
 0
 3
 2
 kbd_Parts
-Battery_XH2.5_GL_rev
+Battery_XH2.5_GL_PCB
 
 
 0
@@ -63,6 +63,13 @@ capacitor 1206
 2
 2
 kbd_Parts
+Capacitor_1206_Rev
+Capacitor SMD 1206, hand soldering
+capacitor 1206
+0
+4
+2
+kbd_Parts
 Diode_SMD
 Resitance 3 pas
 R
@@ -76,6 +83,13 @@ R
 0
 0
 0
+kbd_Parts
+Diode_SMD_Rev
+Resitance 3 pas
+R
+0
+4
+2
 kbd_Parts
 Diode_SMD_Silk
 Resitance 3 pas

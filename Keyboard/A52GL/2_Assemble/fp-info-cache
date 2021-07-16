@@ -1,4 +1,4 @@
-17342205086054178
+17345477812513016
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -76475,14 +76475,14 @@ Battery_BMP_2pin
 2
 2
 kbd_Parts
-Battery_XH2.5_GL
+Battery_XH2.5_GL_Connector
 
 
 0
 3
 2
 kbd_Parts
-Battery_XH2.5_GL_rev
+Battery_XH2.5_GL_PCB
 
 
 0
@@ -76517,6 +76517,13 @@ capacitor 1206
 2
 2
 kbd_Parts
+Capacitor_1206_Rev
+Capacitor SMD 1206, hand soldering
+capacitor 1206
+0
+4
+2
+kbd_Parts
 Diode_SMD
 Resitance 3 pas
 R
@@ -76530,6 +76537,13 @@ R
 0
 0
 0
+kbd_Parts
+Diode_SMD_Rev
+Resitance 3 pas
+R
+0
+4
+2
 kbd_Parts
 Diode_SMD_Silk
 Resitance 3 pas
