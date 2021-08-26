@@ -1,4 +1,4 @@
-update=2021/07/09 17:13:56
+update=2021/08/07 22:12:08
 version=1
 last_client=pcbnew
 [general]
@@ -57,7 +57,7 @@ OthersTextSizeThickness=0.15
 OthersTextItalic=0
 OthersTextUpright=1
 SolderMaskClearance=0
-SolderMaskMinWidth=0.25
+SolderMaskMinWidth=0
 SolderPasteClearance=0
 SolderPasteRatio=-0
 [pcbnew/Layer.F.Cu]

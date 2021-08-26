@@ -309,17 +309,6 @@ F 3 "~" H 15050 8325 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L power:GND #PWR025
-U 1 1 5CC518DD
-P 15250 9075
-F 0 "#PWR025" H 15250 8825 50  0001 C CNN
-F 1 "GND" H 15255 8902 50  0000 C CNN
-F 2 "" H 15250 9075 50  0001 C CNN
-F 3 "" H 15250 9075 50  0001 C CNN
-	1    15250 9075
-	1    0    0    -1  
-$EndComp
-$Comp
 L Connector_Generic:Conn_01x01 J15
 U 1 1 5CC9EE7D
 P 15450 8425
@@ -5381,4 +5370,17 @@ Connection ~ 10175 12425
 Wire Wire Line
 	10175 12425 10175 13075
 NoConn ~ 9925 13275
+Text Notes 5850 900  0    50   ~ 0
+The grid size should be set to 25mils.
+$Comp
+L power:GND #PWR?
+U 1 1 61BB629E
+P 15250 9075
+F 0 "#PWR?" H 15250 8825 50  0001 C CNN
+F 1 "GND" H 15255 8902 50  0000 C CNN
+F 2 "" H 15250 9075 50  0001 C CNN
+F 3 "" H 15250 9075 50  0001 C CNN
+	1    15250 9075
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
