@@ -1,4 +1,4 @@
-19830986219925457
+19855689397350779
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -84896,6 +84896,20 @@ QR
 0
 0
 kbd_Logo
+Re
+
+
+0
+0
+0
+kbd_Logo
+Remap
+
+
+0
+0
+0
+kbd_Logo
 SettaS2
 
 
@@ -84953,6 +84967,34 @@ hana2_t
 0
 kbd_Logo
 hana_T
+
+
+0
+0
+0
+kbd_Logo
+kagifuda
+
+
+0
+0
+0
+kbd_Logo
+kagifuda1
+
+
+0
+0
+0
+kbd_Logo
+kagifuda2
+
+
+0
+0
+0
+kbd_Logo
+kagifuda4
 
 
 0
@@ -85083,6 +85125,13 @@ uras
 
 0
 0
+0
+kbd_Parts
+Adhesive_pad
+Resitance 3 pas
+R
+0
+2
 0
 kbd_Parts
 Battery_2pin
@@ -85330,6 +85379,20 @@ CONN DEV
 4
 4
 kbd_Parts
+PinHeader_1x06_P2.54mm_Horizontal
+Through hole angled pin header, 1x06, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x06 2.54mm single row
+0
+6
+6
+kbd_Parts
+Reinforcement_member
+
+
+0
+4
+0
+kbd_Parts
 ResetSW
 
 
@@ -85349,6 +85412,13 @@ Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/p
 rotary encoder
 0
 7
+6
+kbd_Parts
+RotaryEncoder_EVQWGD001
+
+
+0
+6
 6
 kbd_Parts
 Stab_2u_BL
@@ -85547,6 +85617,20 @@ Choc_Hotswap_2.0u_Stab
 2
 2
 kbd_SW
+Choc_v1_solder
+
+
+0
+2
+2
+kbd_SW
+Choc_v1_solder_mix2
+
+
+0
+6
+2
+kbd_SW
 Choc_v1_v2
 
 
@@ -85571,6 +85655,27 @@ kbd_SW_Hole
 CherryMX_2u_BL_Kai2_e2
 
 
+0
+0
+0
+kbd_SW_Hole
+Choc_v1_solder_hole
+
+
+0
+0
+0
+kbd_SW_Hole
+Choc_v1_solder_mix2_hole
+
+
+0
+0
+0
+kbd_SW_Hole
+RotaryEncoder_EC12E_hole
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
 0
 0
 0
