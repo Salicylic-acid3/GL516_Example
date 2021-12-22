@@ -102,45 +102,7 @@
     (uvia_drill 0.1)
   )
 
-  (module kbd_SW_Hole:SW_Hole_1.75 (layer F.Cu) (tedit 60F58ACC) (tstamp 60A296AC)
-    (at 269.08125 85.725)
-    (path /5C3DCEFA)
-    (fp_text reference SW8 (at 7 8.1) (layer F.SilkS) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (fp_text value SW_PUSH (at -7.4 -8.1) (layer F.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (fp_line (start 16.66875 9.525) (end 16.66875 -9.525) (layer F.Fab) (width 0.15))
-    (fp_line (start -16.66875 9.525) (end 16.66875 9.525) (layer F.Fab) (width 0.15))
-    (fp_line (start -16.66875 -9.525) (end -16.66875 9.525) (layer F.Fab) (width 0.15))
-    (fp_line (start 16.66875 -9.525) (end -16.66875 -9.525) (layer F.Fab) (width 0.15))
-    (fp_line (start -7.05 7.05) (end -7.05 -7.05) (layer Edge.Cuts) (width 0.15))
-    (fp_line (start 7.05 7.05) (end -7.05 7.05) (layer Edge.Cuts) (width 0.15))
-    (fp_line (start 7.05 -7.05) (end 7.05 7.05) (layer Edge.Cuts) (width 0.15))
-    (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
-  )
-
-  (module kbd_SW_Hole:SW_Hole_1.75 (layer F.Cu) (tedit 60F58ACC) (tstamp 5CF70F1B)
-    (at 35.71875 66.675)
-    (path /5CAAE847)
-    (fp_text reference SW3 (at 7 8.1) (layer Edge.Cuts) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (fp_text value SW_PUSH (at -7.4 -8.1) (layer F.Fab) hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (fp_line (start 16.66875 9.525) (end 16.66875 -9.525) (layer F.Fab) (width 0.15))
-    (fp_line (start -16.66875 9.525) (end 16.66875 9.525) (layer F.Fab) (width 0.15))
-    (fp_line (start -16.66875 -9.525) (end -16.66875 9.525) (layer F.Fab) (width 0.15))
-    (fp_line (start 16.66875 -9.525) (end -16.66875 -9.525) (layer F.Fab) (width 0.15))
-    (fp_line (start -7.05 7.05) (end -7.05 -7.05) (layer Edge.Cuts) (width 0.15))
-    (fp_line (start 7.05 7.05) (end -7.05 7.05) (layer Edge.Cuts) (width 0.15))
-    (fp_line (start 7.05 -7.05) (end 7.05 7.05) (layer Edge.Cuts) (width 0.15))
-    (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
-  )
-
-  (module kbd_SW_Hole:SW_Hole_2 (layer F.Cu) (tedit 60F58AF2) (tstamp 60A297C8)
+  (module kbd_SW_Hole:SW_Hole_2u (layer F.Cu) (tedit 60F58AF2) (tstamp 60A297C8)
     (at 292.89375 57.15 270)
     (fp_text reference SW4 (at 7 8.1 90) (layer Edge.Cuts) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -166,7 +128,7 @@
     (fp_line (start -15.4 -6) (end -8.4 -6) (layer Edge.Cuts) (width 0.12))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1.25 (layer F.Cu) (tedit 60F58AA9) (tstamp 60A299D0)
+  (module kbd_SW_Hole:SW_Hole_1.25u (layer F.Cu) (tedit 60F58AA9) (tstamp 60A299D0)
     (at 221.45625 104.775)
     (path /5C6AB630)
     (fp_text reference SW5 (at 7 8.1) (layer F.SilkS) hide
@@ -185,7 +147,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1.25 (layer F.Cu) (tedit 60F58AA9) (tstamp 60A299BA)
+  (module kbd_SW_Hole:SW_Hole_1.25u (layer F.Cu) (tedit 60F58AA9) (tstamp 60A299BA)
     (at 245.26875 104.775)
     (path /5C6AB630)
     (fp_text reference SW5 (at 7 8.1) (layer F.SilkS) hide
@@ -204,7 +166,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1.25 (layer F.Cu) (tedit 60F58AA9) (tstamp 60A299A4)
+  (module kbd_SW_Hole:SW_Hole_1.25u (layer F.Cu) (tedit 60F58AA9) (tstamp 60A299A4)
     (at 178.59375 104.775)
     (path /5C6AB630)
     (fp_text reference SW5 (at 7 8.1) (layer F.SilkS) hide
@@ -223,7 +185,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1.25 (layer F.Cu) (tedit 60F58AA9) (tstamp 60524BCB)
+  (module kbd_SW_Hole:SW_Hole_1.25u (layer F.Cu) (tedit 60F58AA9) (tstamp 60524BCB)
     (at 30.95625 104.775)
     (path /5CAAE83E)
     (fp_text reference SW7 (at 7 8.1) (layer F.SilkS) hide
@@ -242,7 +204,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1.25 (layer F.Cu) (tedit 60F58AA9) (tstamp 5CB90BF3)
+  (module kbd_SW_Hole:SW_Hole_1.25u (layer F.Cu) (tedit 60F58AA9) (tstamp 5CB90BF3)
     (at 73.81875 104.775)
     (path /5CAAE83E)
     (fp_text reference SW7 (at 7 8.1) (layer F.SilkS) hide
@@ -261,7 +223,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1.25 (layer F.Cu) (tedit 60F58AA9) (tstamp 5CB90C09)
+  (module kbd_SW_Hole:SW_Hole_1.25u (layer F.Cu) (tedit 60F58AA9) (tstamp 5CB90C09)
     (at 116.68125 104.775)
     (path /5C6AB630)
     (fp_text reference SW5 (at 7 8.1) (layer F.SilkS) hide
@@ -280,7 +242,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_2.25 (layer F.Cu) (tedit 60F58B15) (tstamp 60A290EB)
+  (module kbd_SW_Hole:SW_Hole_2.25u (layer F.Cu) (tedit 60F58B15) (tstamp 60A290EB)
     (at 40.48125 85.725 180)
     (fp_text reference SW4 (at 7 8.1) (layer Edge.Cuts) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -306,7 +268,45 @@
     (fp_line (start -15.4 -6) (end -8.4 -6) (layer Edge.Cuts) (width 0.12))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1.5 (layer F.Cu) (tedit 60F58A81) (tstamp 60A28FB7)
+  (module kbd_SW_Hole:SW_Hole_1.75u (layer F.Cu) (tedit 60F58ACC) (tstamp 60A296AC)
+    (at 269.08125 85.725)
+    (path /5C3DCEFA)
+    (fp_text reference SW8 (at 7 8.1) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value SW_PUSH (at -7.4 -8.1) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_line (start 16.66875 9.525) (end 16.66875 -9.525) (layer F.Fab) (width 0.15))
+    (fp_line (start -16.66875 9.525) (end 16.66875 9.525) (layer F.Fab) (width 0.15))
+    (fp_line (start -16.66875 -9.525) (end -16.66875 9.525) (layer F.Fab) (width 0.15))
+    (fp_line (start 16.66875 -9.525) (end -16.66875 -9.525) (layer F.Fab) (width 0.15))
+    (fp_line (start -7.05 7.05) (end -7.05 -7.05) (layer Edge.Cuts) (width 0.15))
+    (fp_line (start 7.05 7.05) (end -7.05 7.05) (layer Edge.Cuts) (width 0.15))
+    (fp_line (start 7.05 -7.05) (end 7.05 7.05) (layer Edge.Cuts) (width 0.15))
+    (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
+  )
+
+  (module kbd_SW_Hole:SW_Hole_1.75u (layer F.Cu) (tedit 60F58ACC) (tstamp 5CF70F1B)
+    (at 35.71875 66.675)
+    (path /5CAAE847)
+    (fp_text reference SW3 (at 7 8.1) (layer Edge.Cuts) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value SW_PUSH (at -7.4 -8.1) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_line (start 16.66875 9.525) (end 16.66875 -9.525) (layer F.Fab) (width 0.15))
+    (fp_line (start -16.66875 9.525) (end 16.66875 9.525) (layer F.Fab) (width 0.15))
+    (fp_line (start -16.66875 -9.525) (end -16.66875 9.525) (layer F.Fab) (width 0.15))
+    (fp_line (start 16.66875 -9.525) (end -16.66875 -9.525) (layer F.Fab) (width 0.15))
+    (fp_line (start -7.05 7.05) (end -7.05 -7.05) (layer Edge.Cuts) (width 0.15))
+    (fp_line (start 7.05 7.05) (end -7.05 7.05) (layer Edge.Cuts) (width 0.15))
+    (fp_line (start 7.05 -7.05) (end 7.05 7.05) (layer Edge.Cuts) (width 0.15))
+    (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
+  )
+
+  (module kbd_SW_Hole:SW_Hole_1.5u (layer F.Cu) (tedit 60F58A81) (tstamp 60A28FB7)
     (at 33.3375 47.625)
     (fp_text reference SW2 (at 7 8.1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -324,7 +324,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 60A299F2)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 60A299F2)
     (at 200.025 104.775)
     (path /5C3DCEFA)
     (fp_text reference SW8 (at 7 8.1) (layer F.SilkS) hide
@@ -343,7 +343,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 60A29976)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 60A29976)
     (at 138.1125 104.775)
     (path /5C3DCEFA)
     (fp_text reference SW8 (at 7 8.1) (layer F.SilkS) hide
@@ -362,7 +362,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 60A2996B)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 60A2996B)
     (at 157.1625 104.775)
     (path /5C3DCEFA)
     (fp_text reference SW8 (at 7 8.1) (layer F.SilkS) hide
@@ -381,7 +381,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 60A2993F)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 60A2993F)
     (at 295.275 104.775)
     (path /5C3DCEFA)
     (fp_text reference SW8 (at 7 8.1) (layer F.SilkS) hide
@@ -400,7 +400,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 60A29934)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 60A29934)
     (at 314.325 104.775)
     (path /5C3DCEFA)
     (fp_text reference SW8 (at 7 8.1) (layer F.SilkS) hide
@@ -419,7 +419,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 60A29929)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 60A29929)
     (at 276.225 104.775)
     (path /5C3DCEFA)
     (fp_text reference SW8 (at 7 8.1) (layer F.SilkS) hide
@@ -438,7 +438,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 60A298E0)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 60A298E0)
     (at 276.225 28.575)
     (path /5C3DCE96)
     (fp_text reference SW4 (at 7 8.1) (layer F.SilkS) hide
@@ -457,7 +457,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 60A298D5)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 60A298D5)
     (at 295.275 28.575)
     (path /5C3DCE96)
     (fp_text reference SW4 (at 7 8.1) (layer F.SilkS) hide
@@ -476,7 +476,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 60A29840)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 60A29840)
     (at 314.325 66.675)
     (path /5C3DCE96)
     (fp_text reference SW4 (at 7 8.1) (layer F.SilkS) hide
@@ -495,7 +495,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 60A29835)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 60A29835)
     (at 314.325 47.625)
     (path /5C3DCEFA)
     (fp_text reference SW8 (at 7 8.1) (layer F.SilkS) hide
@@ -514,7 +514,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 60A2982A)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 60A2982A)
     (at 314.325 28.575)
     (path /5C3DCE96)
     (fp_text reference SW4 (at 7 8.1) (layer F.SilkS) hide
@@ -533,7 +533,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 60A2981F)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 60A2981F)
     (at 314.325 85.725)
     (path /5C3DCEFA)
     (fp_text reference SW8 (at 7 8.1) (layer F.SilkS) hide
@@ -552,7 +552,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 60A29725)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 60A29725)
     (at 266.7 47.625)
     (path /5C3DCEFA)
     (fp_text reference SW8 (at 7 8.1) (layer F.SilkS) hide
@@ -571,7 +571,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 60A2971A)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 60A2971A)
     (at 252.4125 66.675)
     (path /5C3DCE96)
     (fp_text reference SW4 (at 7 8.1) (layer F.SilkS) hide
@@ -590,7 +590,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 60A2970F)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 60A2970F)
     (at 219.075 28.575)
     (path /5C3DCE96)
     (fp_text reference SW4 (at 7 8.1) (layer F.SilkS) hide
@@ -609,7 +609,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 60A29704)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 60A29704)
     (at 257.175 28.575)
     (path /5C3DCE96)
     (fp_text reference SW4 (at 7 8.1) (layer F.SilkS) hide
@@ -628,7 +628,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 60A296F9)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 60A296F9)
     (at 247.65 47.625)
     (path /5C3DCEFA)
     (fp_text reference SW8 (at 7 8.1) (layer F.SilkS) hide
@@ -647,7 +647,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 60A296EE)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 60A296EE)
     (at 271.4625 66.675)
     (path /5C3DCE96)
     (fp_text reference SW4 (at 7 8.1) (layer F.SilkS) hide
@@ -666,7 +666,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 60A296E3)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 60A296E3)
     (at 233.3625 66.675)
     (path /5C3DCE96)
     (fp_text reference SW4 (at 7 8.1) (layer F.SilkS) hide
@@ -685,7 +685,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 60A296D8)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 60A296D8)
     (at 228.6 47.625)
     (path /5C3DCEFA)
     (fp_text reference SW8 (at 7 8.1) (layer F.SilkS) hide
@@ -704,7 +704,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 60A296CD)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 60A296CD)
     (at 242.8875 85.725)
     (path /5C3DCEFA)
     (fp_text reference SW8 (at 7 8.1) (layer F.SilkS) hide
@@ -723,7 +723,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 60A296C2)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 60A296C2)
     (at 238.125 28.575)
     (path /5C3DCE96)
     (fp_text reference SW4 (at 7 8.1) (layer F.SilkS) hide
@@ -742,7 +742,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 60A296B7)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 60A296B7)
     (at 295.275 85.725)
     (path /5C3DCEFA)
     (fp_text reference SW8 (at 7 8.1) (layer F.SilkS) hide
@@ -761,7 +761,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 60A2961D)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 60A2961D)
     (at 190.5 47.625)
     (path /5C3DCEFA)
     (fp_text reference SW8 (at 7 8.1) (layer F.SilkS) hide
@@ -780,7 +780,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 60A29612)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 60A29612)
     (at 214.3125 66.675)
     (path /5C3DCE96)
     (fp_text reference SW4 (at 7 8.1) (layer F.SilkS) hide
@@ -799,7 +799,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 60A29607)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 60A29607)
     (at 171.45 47.625)
     (path /5C3DCEFA)
     (fp_text reference SW8 (at 7 8.1) (layer F.SilkS) hide
@@ -818,7 +818,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 60A295FC)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 60A295FC)
     (at 204.7875 85.725)
     (path /5C3DCEFA)
     (fp_text reference SW8 (at 7 8.1) (layer F.SilkS) hide
@@ -837,7 +837,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 60A295F1)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 60A295F1)
     (at 161.925 28.575)
     (path /5C3DCE96)
     (fp_text reference SW4 (at 7 8.1) (layer F.SilkS) hide
@@ -856,7 +856,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 60A295E6)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 60A295E6)
     (at 223.8375 85.725)
     (path /5C3DCEFA)
     (fp_text reference SW8 (at 7 8.1) (layer F.SilkS) hide
@@ -875,7 +875,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 60A295DB)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 60A295DB)
     (at 176.2125 66.675)
     (path /5C3DCE96)
     (fp_text reference SW4 (at 7 8.1) (layer F.SilkS) hide
@@ -894,7 +894,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 60A295D0)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 60A295D0)
     (at 180.975 28.575)
     (path /5C3DCE96)
     (fp_text reference SW4 (at 7 8.1) (layer F.SilkS) hide
@@ -913,7 +913,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 60A295C5)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 60A295C5)
     (at 209.55 47.625)
     (path /5C3DCEFA)
     (fp_text reference SW8 (at 7 8.1) (layer F.SilkS) hide
@@ -932,7 +932,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 60A295BA)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 60A295BA)
     (at 200.025 28.575)
     (path /5C3DCE96)
     (fp_text reference SW4 (at 7 8.1) (layer F.SilkS) hide
@@ -951,7 +951,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 60A295AF)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 60A295AF)
     (at 185.7375 85.725)
     (path /5C3DCEFA)
     (fp_text reference SW8 (at 7 8.1) (layer F.SilkS) hide
@@ -970,7 +970,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 60A295A4)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 60A295A4)
     (at 195.2625 66.675)
     (path /5C3DCE96)
     (fp_text reference SW4 (at 7 8.1) (layer F.SilkS) hide
@@ -989,7 +989,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 60A29515)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 60A29515)
     (at 142.875 28.575)
     (path /5C3DCE96)
     (fp_text reference SW4 (at 7 8.1) (layer F.SilkS) hide
@@ -1008,7 +1008,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 60A2950A)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 60A2950A)
     (at 138.1125 66.675)
     (path /5C3DCE96)
     (fp_text reference SW4 (at 7 8.1) (layer F.SilkS) hide
@@ -1027,7 +1027,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 60A294FF)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 60A294FF)
     (at 128.5875 85.725)
     (path /5C3DCEFA)
     (fp_text reference SW8 (at 7 8.1) (layer F.SilkS) hide
@@ -1046,7 +1046,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 60A294F4)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 60A294F4)
     (at 123.825 28.575)
     (path /5C3DCE96)
     (fp_text reference SW4 (at 7 8.1) (layer F.SilkS) hide
@@ -1065,7 +1065,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 60A294E9)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 60A294E9)
     (at 157.1625 66.675)
     (path /5C3DCE96)
     (fp_text reference SW4 (at 7 8.1) (layer F.SilkS) hide
@@ -1084,7 +1084,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 60A294DE)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 60A294DE)
     (at 152.4 47.625)
     (path /5C3DCEFA)
     (fp_text reference SW8 (at 7 8.1) (layer F.SilkS) hide
@@ -1103,7 +1103,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 60A294D3)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 60A294D3)
     (at 147.6375 85.725)
     (path /5C3DCEFA)
     (fp_text reference SW8 (at 7 8.1) (layer F.SilkS) hide
@@ -1122,7 +1122,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 60A294C8)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 60A294C8)
     (at 133.35 47.625)
     (path /5C3DCEFA)
     (fp_text reference SW8 (at 7 8.1) (layer F.SilkS) hide
@@ -1141,7 +1141,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 60A294BD)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 60A294BD)
     (at 119.0625 66.675)
     (path /5C3DCE96)
     (fp_text reference SW4 (at 7 8.1) (layer F.SilkS) hide
@@ -1160,7 +1160,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 60A294B2)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 60A294B2)
     (at 166.6875 85.725)
     (path /5C3DCEFA)
     (fp_text reference SW8 (at 7 8.1) (layer F.SilkS) hide
@@ -1179,7 +1179,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 60A294A7)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 60A294A7)
     (at 104.775 28.575)
     (path /5C3DCE96)
     (fp_text reference SW4 (at 7 8.1) (layer F.SilkS) hide
@@ -1198,7 +1198,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 60A2949C)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 60A2949C)
     (at 114.3 47.625)
     (path /5C3DCEFA)
     (fp_text reference SW8 (at 7 8.1) (layer F.SilkS) hide
@@ -1217,7 +1217,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 60A293D2)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 60A293D2)
     (at 95.25 104.775)
     (path /5C3DCEFA)
     (fp_text reference SW8 (at 7 8.1) (layer F.SilkS) hide
@@ -1236,7 +1236,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 60A2938E)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 60A2938E)
     (at 100.0125 66.675)
     (path /5C3DCE96)
     (fp_text reference SW4 (at 7 8.1) (layer F.SilkS) hide
@@ -1255,7 +1255,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 60A29383)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 60A29383)
     (at 85.725 28.575)
     (path /5C3DCE96)
     (fp_text reference SW4 (at 7 8.1) (layer F.SilkS) hide
@@ -1274,7 +1274,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 60A29378)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 60A29378)
     (at 109.5375 85.725)
     (path /5C3DCEFA)
     (fp_text reference SW8 (at 7 8.1) (layer F.SilkS) hide
@@ -1293,7 +1293,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 60A2936D)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 60A2936D)
     (at 95.25 47.625)
     (path /5C3DCEFA)
     (fp_text reference SW8 (at 7 8.1) (layer F.SilkS) hide
@@ -1312,7 +1312,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 60A29336)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 60A29336)
     (at 90.4875 85.725)
     (path /5C3DCEFA)
     (fp_text reference SW8 (at 7 8.1) (layer F.SilkS) hide
@@ -1331,7 +1331,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 60A2932B)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 60A2932B)
     (at 80.9625 66.675)
     (path /5C3DCE96)
     (fp_text reference SW4 (at 7 8.1) (layer F.SilkS) hide
@@ -1350,7 +1350,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 60A29320)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 60A29320)
     (at 66.675 28.575)
     (path /5C3DCE96)
     (fp_text reference SW4 (at 7 8.1) (layer F.SilkS) hide
@@ -1369,7 +1369,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 60A29315)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 60A29315)
     (at 76.2 47.625)
     (path /5C3DCEFA)
     (fp_text reference SW8 (at 7 8.1) (layer F.SilkS) hide
@@ -1388,7 +1388,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 60A292AB)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 60A292AB)
     (at 61.9125 66.675)
     (path /5C3DCE96)
     (fp_text reference SW4 (at 7 8.1) (layer F.SilkS) hide
@@ -1407,7 +1407,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 60A292A0)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 60A292A0)
     (at 71.4375 85.725)
     (path /5C3DCEFA)
     (fp_text reference SW8 (at 7 8.1) (layer F.SilkS) hide
@@ -1426,7 +1426,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 608704FB)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 608704FB)
     (at 28.575 28.575)
     (path /5C3DCE96)
     (fp_text reference SW1 (at 7 8.1) (layer F.SilkS) hide
@@ -1445,7 +1445,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 5CB90C14)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 5CB90C14)
     (at 47.625 28.575)
     (path /5C3DCE96)
     (fp_text reference SW4 (at 7 8.1) (layer F.SilkS) hide
@@ -1464,7 +1464,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 5CB90BD2)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 5CB90BD2)
     (at 52.3875 104.775)
     (path /5BF16F8B)
     (fp_text reference SW7 (at 7 8.1) (layer F.SilkS) hide
@@ -1483,7 +1483,7 @@
     (fp_line (start -7.05 -7.05) (end 7.05 -7.05) (layer Edge.Cuts) (width 0.15))
   )
 
-  (module kbd_SW_Hole:SW_Hole_1 (layer F.Cu) (tedit 60F58A59) (tstamp 5CB90BC7)
+  (module kbd_SW_Hole:SW_Hole_1u (layer F.Cu) (tedit 60F58A59) (tstamp 5CB90BC7)
     (at 57.15 47.625)
     (path /5C3DCEFA)
     (fp_text reference SW8 (at 7 8.1) (layer F.SilkS) hide
